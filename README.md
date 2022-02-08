@@ -15,9 +15,6 @@
 
 - 🌱 I’m currently learning PS ( Algorithm)
 
-- 📫 How to reach me
-		 PH. 010-6392-9762
-		 Insta : @potato._.cyh ( Life ) , @yh._.photo ( Hobby )
 
 <!---
 potato-CYH/potato-CYH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
