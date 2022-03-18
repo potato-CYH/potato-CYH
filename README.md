@@ -1,22 +1,23 @@
-- 👋 Hi, I’m YenogHoo Cha
+🛠 **Stacks**  
+[ 아래의 프레임워크를 사용해 보았습니다. ]  
+> - Spring Boot  
+> - MySQL  
+> - Node. JS  
+> - AWS (EC2, S3, RDS)  
+> - CI/CD (Travis CI, CodeDeploy)
+> - Git  
 
-- 🏬 Dept of Electronics Engineering at Incheon Nat'l Univ.
+🛠 **Language**  
+[ 아래의 언어를 활용할 수  있습니다. ]  
+> - Java  
+> - Python  
+> - HTML, CSS, Javascript  
+> - C / C++  
 
-- 👀 I’m interested in , 
+------------------
 
->    -Spring Framework ( + Spring Boot )
-	  - HTML5
-	  - Javascript
-	  - Web
-	  - Python, Java, C
-	  - AWS EC2, S3, RDS
-	  - MySQL
-	  - Algorithm**
+🌱 현재는 **Spring Security, O-Auth, Nginx, 알고리즘** 을 공부중입니다.  
 
-- 🌱 I’m currently learning PS ( Algorithm)
-
-
-<!---
-potato-CYH/potato-CYH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+------------------  
+📧 **Contact**  
+> - 📧 E-Mail : mydream11123@naver.com
