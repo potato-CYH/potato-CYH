@@ -13,11 +13,8 @@
 > - Python  
 > - HTML, CSS, Javascript  
 > - C / C++  
-
-------------------
-
+  
 🌱 현재는 **Spring Security, O-Auth, Nginx, 알고리즘** 을 공부중입니다.  
-
-------------------  
+  
 📧 **Contact**  
 > - 📧 E-Mail : mydream11123@naver.com
