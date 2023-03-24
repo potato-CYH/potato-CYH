@@ -3,6 +3,9 @@
 🏫 Education : Incheon National University  
 📱 Major : Dept. of Electronics Engineering  
 
+## Education & Carrer
+🏢 Samsung Software Academy for Youth (**SSAFY**) 8th - Embedded Track [2022.07 ~ 2023.07]
+
 
 ##  Skills  
 
