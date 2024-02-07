@@ -6,7 +6,7 @@
 ## Education & Carrer
 🏢 Samsung Software Academy for Youth (**SSAFY**) 8th - Embedded Track [2022.07 ~ 2023.07]  
   
-🏢 Hyundai Autoever - Navigation Development Team [2023.08 ~ ]  
+🏢 Hyundai Autoever - Navigation Development [2023.08 ~ ]  
 
 
 ##  Skills  
