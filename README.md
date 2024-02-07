@@ -13,7 +13,7 @@
 ##  Skills  
 
 **Platform & Language**  
-<img  src="https://img.shields.io/badge/linux-A8B9CC?style=for-the-square&logo=C&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Linux-A8B9CC?style=for-the-square&logo=C&logoColor=white"/>
 <img  src="https://img.shields.io/badge/C-A8B9CC?style=for-the-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-square&logo=C++&logoColor=white"/>
 
 ##  About me  
